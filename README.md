@@ -1,2 +1,3 @@
 # ads
-広告無限配信システム
+
+Endless AD Distributor
