@@ -7,19 +7,16 @@ const takeRandomAds = (n) => {
   }
   return res;
 };
-const addAd = (html) => {
-  document.querySelectorAll(".column").forEach((e) => {
-    let ad = document.createElement("div");
-    ad.className = "ad";
-    ad.innerHTML = html;
-    Math.random() > 0.5 ? e.appendChild(ad) : null;
-  });
-};
 const addAds = (n) => {
-  let ads = takeRandomAds(n);
-  for (var i = 0; i < n; i++) {
-    addAd(ads[i]);
-  }
+  document.querySelectorAll(".column").forEach((e) => {
+    let r = takeRandomAds(n);
+    for (var i = 0; i < n; i++) {
+      let ad = document.createElement("div");
+      ad.className = "ad";
+      ad.innerHTML = r[i % n];
+      e.appendChild(ad);
+    }
+  });
 };
 var main = () => {
   console.log(1);
