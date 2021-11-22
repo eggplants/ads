@@ -19,8 +19,8 @@ const addAds = (n) => {
   });
 };
 var main = () => {
-  console.log(1);
   window.onload = function () {
+    document.querySelector(".numAd").innerHTML = ADS.length;
     addAds(25);
   };
   window.addEventListener(
