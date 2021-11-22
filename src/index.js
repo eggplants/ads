@@ -30,7 +30,7 @@ var main = () => {
     "scroll",
     function () {
       let d = document.documentElement;
-      if (d.scrollTop + d.clientHeight >= d.scrollHeight - 1000) {
+      if (d.scrollTop + d.clientHeight >= d.scrollHeight / 2) {
         addAds(30);
       }
     },
