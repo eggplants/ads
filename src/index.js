@@ -24,14 +24,14 @@ const addAds = (n) => {
 var main = () => {
   console.log(1);
   window.onload = function () {
-    addAds(30);
+    addAds(50);
   };
   window.addEventListener(
     "scroll",
     function () {
       let d = document.documentElement;
       if (d.scrollTop + d.clientHeight >= d.scrollHeight / 2) {
-        addAds(30);
+        addAds(50);
       }
     },
     true
