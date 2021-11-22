@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+
+<head>
+  <title>Ad viewer</title>
+  <link rel="stylesheet" href="style/index.css">
+</head>
+
+<body>
+  <script src="src/index.js"></script>
+  <script>
+    if (window.main === undefined) {
+      document.body.innerHTML = "<h1>Please disable AdBlock and reload this page!</h1>";
+    } else {
+      main();
+    }
+  </script>
+  <header>
+    <h1>Endless AD Distributor</h1>
+    <p>
+      Repo: <a href="https://github.com/eggplants/ads">
+        eggplants/ads</a>
+      ,
+      Distributed by: <a href="https://www.a8.net/">A8.net</a>
+    </p>
+  </header>
+  <div class="container">
+    <div class="column" id="1">
+      <h2>column1</h2>
+    </div>
+    <div class="column" id="2">
+      <h2>column2</h2>
+    </div>
+    <div class="column" id="3">
+      <h2>column3</h2>
+    </div>
+    <div class="column" id="4">
+      <h2>column4</h2>
+    </div>
+  </div>
+</body>
+
+</html>
