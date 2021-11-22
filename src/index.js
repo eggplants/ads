@@ -19,13 +19,13 @@ const addAds = (n) => {
   });
 };
 var main = () => {
-  window.onload = function () {
+  window.onload = () => {
     document.querySelector(".numAd").innerHTML = ADS.length;
     addAds(25);
   };
   window.addEventListener(
     "scroll",
-    function () {
+    () => {
       let d = document.documentElement;
       if (d.scrollTop + d.clientHeight >= d.scrollHeight / 2) {
         addAds(25);
