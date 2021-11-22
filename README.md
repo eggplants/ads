@@ -1,6 +1,6 @@
 # ads
 
-Endless AD Distributor
+[egpl.ga/ads](http://egpl.ga/ads) ― Endless AD Distributor
 
 ## Screenshot
 
