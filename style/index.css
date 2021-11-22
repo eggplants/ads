@@ -46,6 +46,12 @@ header {
   text-align: center;
 }
 table {
+  margin: auto;
+}
+th {
+  text-align: left;
+}
+td {
   text-align: left;
 }
 .container {
