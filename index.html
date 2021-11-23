@@ -22,7 +22,9 @@
   <script src="src/index.js"></script>
   <script>
     if (window.main === undefined) {
-      document.body.innerHTML = "<h1>Please disable AdBlock and reload this page!</h1>";
+      var warn = document.createElement("h1");
+      warn.textContent = "Please disable AdBlock and reload this page!";
+      document.body.appendChild(warn);
     } else {
       main();
     }
