@@ -573,7 +573,6 @@ ADS = [
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www26.a8.net/svt/bgt?aid=211123282000&wid=001&eno=01&mid=s00000000018040008000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RM+S2+50+6M7J4X" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www22.a8.net/svt/bgt?aid=211123282000&wid=001&eno=01&mid=s00000000018040010000&mc=1"></a>`,
-  `<a t...">`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RM+S2+50+6M6VZL" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www29.a8.net/svt/bgt?aid=211123282000&wid=001&eno=01&mid=s00000000018040007000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RM+S2+50+6M7BF5" rel="nofollow">
@@ -592,8 +591,6 @@ ADS = [
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www21.a8.net/svt/bgt?aid=211123281999&wid=001&eno=01&mid=s00000020646001014000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+GHL6WI+2KAI+HXD0X" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www29.a8.net/svt/bgt?aid=211123281997&wid=001&eno=01&mid=s00000011961003011000&mc=1"></a>`,
-  `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+GHL6WI+2KAI+HVNAQ" rel="nofollow">CMS搭載の不動産検索システム「サーチプラスfor不動産」</a>`,
-  `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+GHL6WI+2KAI+HV7V6" rel="nofollow">サーチプラスfor不動産</a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+GHL6WI+2KAI+HZPWH" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www27.a8.net/svt/bgt?aid=211123281997&wid=001&eno=01&mid=s00000011961003022000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+GGZRAQ+2KAI+ZQFQ9" rel="nofollow">
@@ -862,9 +859,6 @@ ADS = [
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www29.a8.net/svt/bgt?aid=211123281932&wid=001&eno=01&mid=s00000017634003004000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HX5B5" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www21.a8.net/svt/bgt?aid=211123281932&wid=001&eno=01&mid=s00000017634003010000&mc=1"></a>`,
-  `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HXD0Y" rel="nofollow">安心安全のマンション経営</a>`,
-  `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HXKQQ" rel="nofollow">知ってる人は始めてる！マンション経営</a>`,
-  `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HXSGI" rel="nofollow">自由テキスト</a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEAKZ6+2KAI+15RK35" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www20.a8.net/svt/bgt?aid=211123281931&wid=001&eno=01&mid=s00000011961007015000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEAKZ6+2KAI+15RCDD" rel="nofollow">
