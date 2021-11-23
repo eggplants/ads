@@ -21,13 +21,15 @@
   <script src="src/ADS.js"></script>
   <script src="src/index.js"></script>
   <script>
-    if (window.main === undefined) {
-      var warn = document.createElement("h1");
-      warn.textContent = "Please disable AdBlock and reload this page!";
-      document.body.appendChild(warn);
-    } else {
-      main();
-    }
+    window.addEventListener('DOMContentLoaded', () => {
+      if (window.main === undefined) {
+        var warn = document.createElement("h1");
+        warn.textContent = "Please disable AdBlock and reload this page!";
+        document.body.appendChild(warn);
+      } else {
+        main();
+      }
+    });
   </script>
 </head>
 
