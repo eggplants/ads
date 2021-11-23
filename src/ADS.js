@@ -860,11 +860,6 @@ ADS = [
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www24.a8.net/svt/bgt?aid=211123281950&wid=001&eno=01&mid=s00000021681001009000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HVV0H" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www29.a8.net/svt/bgt?aid=211123281932&wid=001&eno=01&mid=s00000017634003004000&mc=1"></a>`,
-  `知ってる人ははじめてる、
-安心安全のマンション経営！
-
-ただ今、無料レクチャー実施中！
-https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HVNAR`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HX5B5" rel="nofollow">
 <img onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/eggplants/ads/master/img/404.png';" alt="" src="https://www21.a8.net/svt/bgt?aid=211123281932&wid=001&eno=01&mid=s00000017634003010000&mc=1"></a>`,
   `<a target="_blank" href="https://px.a8.net/svt/ejp?a8mat=3HP3RL+FEW0KY+3S2C+HXD0Y" rel="nofollow">安心安全のマンション経営</a>`,
