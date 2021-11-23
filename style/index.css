@@ -5,6 +5,9 @@ body {
   height: 100%;
   background-color: #cad9dd;
 }
+body::-webkit-scrollbar {
+  display: none;
+}
 header {
   text-align: center;
   background-color: transparent;
@@ -59,8 +62,8 @@ header {
   height: 100%;
   background-size: 50px 50px;
 }
-body::-webkit-scrollbar {
-  display: none;
+table {
+  margin: auto;
 }
 table.side {
   display: inline-block;
@@ -68,18 +71,6 @@ table.side {
 table.side.share {
   font-size: 200%;
   padding-left: 10px;
-}
-div.ad > a > img {
-  width: 100%;
-  height: 100%;
-  vertical-align: bottom;
-}
-div.column {
-  width: 100%;
-  height: 100%;
-}
-table {
-  margin: auto;
 }
 th {
   text-align: left;
@@ -94,8 +85,17 @@ td {
 h2 {
   text-align: center;
 }
+div.column {
+  width: 100%;
+  height: 100%;
+}
 div.ad {
   font-size: 0;
+}
+div.ad > a > img {
+  width: 100%;
+  height: 100%;
+  vertical-align: bottom;
 }
 a.gotop {
   display: block;
